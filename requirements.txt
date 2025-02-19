@@ -2,12 +2,13 @@ numpy
 pandas
 seaborn
 scipy
-fastai
 jupyterlab
 pillow
 voila
 python-fasthtml
 matplotlib
-scipy
 tilemapbase
 jupyter-collaboration
+openpyxl
+scikit-learn
+ipympl
