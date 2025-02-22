@@ -1,4 +1,5 @@
 numpy
+mplcursors
 pandas
 seaborn
 scipy
