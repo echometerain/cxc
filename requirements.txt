@@ -13,3 +13,5 @@ jupyter-collaboration
 openpyxl
 scikit-learn
 ipympl
+geopandas
+thefuzz
